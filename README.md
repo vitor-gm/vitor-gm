@@ -1,7 +1,8 @@
-## Hi there 👋
 
 ![githubgif (1) (2)](https://github.com/user-attachments/assets/8843910c-72d7-4502-b265-58ac56fa5e2b)
 
+
+Olá, Sou desenvolvedor Back End, estudo no Centro Federal de Edução Tecnológica (Cefet-Rj) no curso de Sistenas de Informação (4.º  período)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
