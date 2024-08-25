@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**vitor-gm/vitor-gm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![vitor hugo sant anna (1)](https://github.com/user-attachments/assets/3af24e59-63a5-42db-ad1e-86280e6957c4)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
