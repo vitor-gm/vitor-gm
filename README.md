@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![vitor hugo sant anna (1)](https://github.com/user-attachments/assets/3af24e59-63a5-42db-ad1e-86280e6957c4)
+![githubgif (1) (2)](https://github.com/user-attachments/assets/8843910c-72d7-4502-b265-58ac56fa5e2b)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
