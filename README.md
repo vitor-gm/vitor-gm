@@ -28,3 +28,6 @@ Olá, Sou desenvolvedor focado no Back End com Java. **Estudo no Centro Federal 
 
 - Gosto de estudar e de desafios, com horas de estudo consecutivos conquistei, com muita felicidade, aprovação na Escola Preparatória de Cadetes do Exército (EsPCEx) e ingresso em 1.º lugar no Centro Federal Tecnológico.
 - Gosto de trabalhar em equipe e sempre procuro manter uma relação amigável com as pessoas.
+
+[![linkedin](https://img.shields.io/badge/linkedin-4169E1?style=for-the-badge&logo=linkedin&Link=https://www.linkedin.com/in/vitor-hugo-sant-anna-877820214/)](https://www.linkedin.com/in/vitor-hugo-sant-anna-877820214/)
+[![gmail](https://img.shields.io/badge/gmail-B22222?style=for-the-badge&logo=gmail&Link=)](mailto:gm.0509rbt@gmail.com)
