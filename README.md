@@ -16,6 +16,7 @@ Olá, Sou desenvolvedor focado no Back End com Java. **Estudo no Centro Federal 
 ![obsdian](https://img.shields.io/badge/obsidian-9400D3?style=for-the-badge&logo=obsdian)
 ![trello](https://img.shields.io/badge/trello-0000CD?style=for-the-badge&logo=trello)
 ![github](https://img.shields.io/badge/github-363636?style=for-the-badge&logo=github)
+![neo4j](https://img.shields.io/badge/neo4j-0000CD?style=for-the-badge&logo=neo4j)
 
 ## 💡No momento aprendendo
 
